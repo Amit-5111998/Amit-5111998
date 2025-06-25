@@ -5,8 +5,8 @@
 I'm a **Senior React.js and Next.js Developer** with 4+ years of experience building fast, scalable, and beautiful web applications. I specialize in cutting-edge frontend libraries and tools, including:
 
 - **React.js & Next.js**
-- **Zustand** for state management
-- **Tailwind CSS** for utility-first styling
+- **Zustand** **Redux** **Redux Thunk** **Redux Saga**  for state management
+- **Tailwind CSS**  **MUI** for utility-first styling
 - **shadcn/ui** for UI components
 - **Modern Frontend Deployments & Hosting** (Vercel, Netlify, etc.)
 
