@@ -33,7 +33,7 @@ I'm a **Senior React.js and Next.js Developer** with 4+ years of experience buil
 ## 📫 Find Me Here
 
 - [LinkedIn](https://www.linkedin.com/in/amit5111998/)
-- [personal](https://www.self.so/amit-agrawal-05111998-ReactJS-NextJs)
+- [personal](https://self.so/amit-agrawal-ReactJS-NextJs)
 
 ---
 
